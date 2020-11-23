@@ -38,7 +38,8 @@
   <img title="CSS3" alt="CSS3" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/css3.png" height="50" /> &nbsp;
   <img title="React" alt="React" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/react.png" height="40" /> &nbsp;
   <img title="Gradle" alt="Gradle" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/gradle.png" height="40" /> &nbsp;
-  <img title="Docker" alt="Docker" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/docker.png" height="40" />
+  <img title="Docker" alt="Docker" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/docker.png" height="40" /> &nbsp;
+  <img title="Django" alt="Django" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/django2.png" height="35" />
 </span>
 <!--
 <span style="align-items:center;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;margin: 60px;">
