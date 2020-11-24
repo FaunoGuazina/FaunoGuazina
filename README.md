@@ -30,15 +30,15 @@
 
 #### Conversant:
 <span style="align-items:center;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;margin: 60px;">
-  <img title="Python" alt="Python" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/python.png" height="60" /> &nbsp;
-  <img title="TypeScript" alt="TypeScript" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/typescript.png" height="40" /> &nbsp;
-  <img title="Node.JS" alt="Node.JS" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/nodejs.png" height="40" /> &nbsp;
+  <img title="Docker" alt="Docker" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/docker.png" height="40" /> &nbsp;
+  <img title="Gradle" alt="Gradle" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/gradle.png" height="40" /> &nbsp;
   <img title="JavaScript" alt="JavaScript" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/javascript.png" height="50" /> &nbsp;
   <img title="HTML5" alt="HTML5" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/html5.png" height="50" /> &nbsp;
   <img title="CSS3" alt="CSS3" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/css3.png" height="50" /> &nbsp;
   <img title="React" alt="React" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/react.png" height="40" /> &nbsp;
-  <img title="Gradle" alt="Gradle" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/gradle.png" height="40" /> &nbsp;
-  <img title="Docker" alt="Docker" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/docker.png" height="40" /> &nbsp;
+  <img title="TypeScript" alt="TypeScript" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/typescript.png" height="40" /> &nbsp;
+  <img title="Node.JS" alt="Node.JS" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/nodejs.png" height="40" /> &nbsp;
+  <img title="Python" alt="Python" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/python.png" height="40" /> &nbsp;
   <img title="Django" alt="Django" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/django2.png" height="35" />
 </span>
 <!--
