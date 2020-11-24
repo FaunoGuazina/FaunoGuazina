@@ -38,7 +38,7 @@
   <img title="React" alt="React" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/react.png" height="40" /> &nbsp;
   <img title="TypeScript" alt="TypeScript" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/typescript.png" height="40" /> &nbsp;
   <img title="Node.JS" alt="Node.JS" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/nodejs.png" height="40" /> &nbsp;
-  <img title="Python" alt="Python" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/python.png" height="40" /> &nbsp;
+  <img title="Python" alt="Python" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/python.png" height="50" /> &nbsp;
   <img title="Django" alt="Django" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/django2.png" height="35" />
 </span>
 <!--
