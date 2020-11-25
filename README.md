@@ -3,8 +3,7 @@
 - 💻 Self-motivated Junior Developer
 - 🎯 Committed to IT career change
 - ⚽ Recently collaborated on this [Project](https://github.com/it-academyproject/ITProject-Soccer-Backend)
-- 🔭 About to start a course on backend Node.JS
-- 📓 Now i'm studying data structure
+- 🔭 Now i'm studying data structure and software architecture
 - 📃 Here's my [Resume](https://drive.google.com/file/d/1xyfurLD28w_6fWQe3NeignB68M4o-CVN/view) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina/?locale=en_US)
 - ✒️ 15 years of graphic && product design experience
 - 🎓 10 years of university teaching experience
