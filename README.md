@@ -2,6 +2,7 @@
 
 - 💻 Self-motivated Junior Developer
 - 🎯 Committed to IT career change
+- ⚡ Passion for TDD and Clean Code
 - ⚽ Recently collaborated on this [Project](https://github.com/it-academyproject/ITProject-Soccer-Backend)
 - 🔭 Now i'm studying data structure and software architecture
 - 📃 Here's my [Resume](https://drive.google.com/file/d/1xyfurLD28w_6fWQe3NeignB68M4o-CVN/view) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina/?locale=en_US)
