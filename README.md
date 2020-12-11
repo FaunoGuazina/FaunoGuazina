@@ -5,7 +5,7 @@
 - ⚡ Passion for TDD and Clean Code
 - ⚽ Recently collaborated on this [Project](https://github.com/it-academyproject/ITProject-Soccer-Backend)
 - 🔭 Now i'm studying data structure and software architecture
-- 📃 Here's my [Resume](https://drive.google.com/file/d/1xyfurLD28w_6fWQe3NeignB68M4o-CVN/view) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina/?locale=en_US)
+- 📃 Here's my [Resume](https://drive.google.com/file/d/1xyfurLD28w_6fWQe3NeignB68M4o-CVN/view) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina/?locale=en_US) and [test of key competences](https://drive.google.com/file/d/1Hqkj4brU492sOExsUjdpD-W1dCxVPrXN/view?usp=sharing)
 - ✒️ 15 years of graphic && product design experience
 - 🎓 10 years of university teaching experience
 - 🌍 I'm Brazilian and moved here in 2019
