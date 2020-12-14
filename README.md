@@ -20,9 +20,9 @@
 <span style="align-items:center;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;margin: 60px;">
   <img title="Java" alt="Java" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/java.png" height="80" />  &ensp;
   <img title="Spring" alt="Spring" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/spring2.png" height="80" /> &ensp;
+  <img title="junit5" alt="Postman" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/junit5.png" height="35" /> &ensp;
   <img title="JWT" alt="JWT" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/jwt.png" height="60" /> &nbsp;
   <img title="Git" alt="Git" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/git2.png" height="60" /> &ensp;
-  <img title="Postman" alt="Postman" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/postman.png" height="60" /> &ensp;
   <img title="Maven" alt="Maven" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/maven.png" height="35" /> &ensp;
   <img title="MongoDB" alt="MongoDB" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/mongodb.png" height="40" /> &ensp;
   <img title="MySQL" alt="MySQL" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/MySQL.png" height="45" />
@@ -32,8 +32,9 @@
 <span style="align-items:center;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;margin: 60px;">
   <img title="Docker" alt="Docker" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/docker.png" height="50" /> &nbsp;
   <img title="Gradle" alt="Gradle" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/gradle.png" height="45" /> &nbsp;
-  <img title="Hibernate" alt="JavaScript" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/hibernate.png" height="50" /> &nbsp;
-  <img title="kubernetes" alt="HTML5" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/kubernetes.png" height="50" />
+  <img title="Hibernate" alt="JavaScript" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/hibernate.png" height="45" /> &nbsp;
+  <img title="kubernetes" alt="HTML5" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/kubernetes.png" height="50" />  &ensp;
+  <img title="Postman" alt="Postman" src="https://github.com/FaunoGuazina/FaunoGuazina/blob/main/Logos/postman.png" height="45" />
 </span>
 
 #### Interested:
