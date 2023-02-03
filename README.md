@@ -3,14 +3,13 @@
 - 💻 Self-motivated Junior Developer
 - 🎯 Committed to IT career change
 - ⚡ Passion for TDD and Clean Code
-- ⚽ Recently collaborated on this [Project](https://github.com/it-academyproject/ITProject-Soccer-Backend)
-- 🔭 Now i'm studying data structure and software architecture
-- 📃 Here's my [Resume](https://drive.google.com/file/d/1xyfurLD28w_6fWQe3NeignB68M4o-CVN/view) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina/?locale=en_US) and [test of key competences](https://drive.google.com/file/d/1Hqkj4brU492sOExsUjdpD-W1dCxVPrXN/view?usp=sharing)
+- 🔭 Now i'm studying DAM - Multiplatform Application Development (Superior Degree)
+- 📃 Here's my [Resume](https://drive.google.com/file/d/10dPoTEHmWrnUkoj2mltawLdJXlz9egla/view) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina/?locale=en_US)
 - ✒️ 15 years of graphic && product design experience
 - 🎓 10 years of university teaching experience
 - 🏡 Currently living in Barcelona
 - 🌍 I'm Brazilian and moved here in 2019
-- 🎨 My hobbies are writing, art history, circus art
+- 🎨 My hobbies are cooking, art history, yoga and pilates
 - 🗻 Recently I have been interested in rock climbing
 
 
