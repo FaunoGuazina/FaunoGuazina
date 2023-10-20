@@ -5,7 +5,7 @@
 - ⚡ Passion for TDD and Clean Code
 - 💾 I really like the backend and microservices
 - 🔭 Now i'm studying DAM - Multiplatform Application Development (Superior Degree)
-- 📃 Here's my [Resume](https://drive.google.com/file/d/10dPoTEHmWrnUkoj2mltawLdJXlz9egla/view](https://drive.google.com/file/d/1Gypf4sXBdjV9KNx0i9o8kq5I-_3_-ejK/view?usp=sharing)) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina)
+- 📃 Here's my [Resume](https://drive.google.com/file/d/1Gypf4sXBdjV9KNx0i9o8kq5I-_3_-ejK/view?usp=sharing) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina)
 - ✒️ 15 years of graphic && product design experience
 - 🎓 10 years of university teaching experience
 - 🏡 Currently living in Barcelona
