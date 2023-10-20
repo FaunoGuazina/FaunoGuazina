@@ -3,14 +3,14 @@
 - 💻 Self-motivated Junior Developer
 - 🎯 Committed to IT career change
 - ⚡ Passion for TDD and Clean Code
+- 💾 I really like the backend and microservices
 - 🔭 Now i'm studying DAM - Multiplatform Application Development (Superior Degree)
-- 📃 Here's my [Resume](https://drive.google.com/file/d/10dPoTEHmWrnUkoj2mltawLdJXlz9egla/view) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina/?locale=en_US)
+- 📃 Here's my [Resume]([https://drive.google.com/file/d/10dPoTEHmWrnUkoj2mltawLdJXlz9egla/view](https://drive.google.com/file/d/1Gypf4sXBdjV9KNx0i9o8kq5I-_3_-ejK/view?usp=sharing)) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina)
 - ✒️ 15 years of graphic && product design experience
 - 🎓 10 years of university teaching experience
 - 🏡 Currently living in Barcelona
 - 🌍 I'm Brazilian and moved here in 2019
 - 🎨 My hobbies are cooking, art history, yoga and pilates
-- 🗻 Recently I have been interested in rock climbing
 
 
 ## My skills include:
