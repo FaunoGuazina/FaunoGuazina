@@ -9,7 +9,7 @@
 - ✒️ 15 years of graphic && product design experience
 - 🎓 10 years of university teaching experience
 - 🏡 Currently living in Barcelona
-- 🌍 I'm Brazilian and Spanish and moved here in 2019
+- 🌍 I'm Brazilian/Spanish and moved here in 2019
 - 🎨 My hobbies are cooking, art history, yoga and pilates
 
 
