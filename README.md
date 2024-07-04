@@ -1,17 +1,16 @@
 # Hi there, I'm Fauno Guazina 👋  
 
-- 💻 Self-motivated Junior Developer
-- 🎯 Committed to IT career change
+- 🔭 Graduated in DAM - Multiplatform APPs Development with a grade of 9/10
+- 💻 Final project ['What a Cook'](https://github.com/LinkiaFP-Exercises/Project_What-a-Cook)
+- 🎯 Self-motivated Java Developer and Committed to IT career change
 - ⚡ Passion for TDD and Clean Code
 - 💾 I really like the backend and microservices
-- 🔭 Now i'm studying DAM - Multiplatform APPs Development (Superior Degree - ends on June 24)
 - 📃 Here's my [Resume](https://drive.google.com/file/d/1WspxoVAdOnstQ4ZO4ojxPcg82KafPH1u/) and [LinkdIn](https://www.linkedin.com/in/fauno-guazina)
 - ✒️ 15 years of graphic && product design experience
-- 🎓 10 years of university teaching experience
+- 🎓 10 years of university teaching experience, coordinating extension and research projects
 - 🏡 Currently living in Barcelona
 - 🌍 I'm Brazilian/Spanish and moved here in 2019
-- 🎨 My hobbies are cooking, art history, yoga and pilates
-
+- 🎨 My hobbies are Art history && Cooking && (Yoga || Pilates)
 
 ## My skills include:
 
