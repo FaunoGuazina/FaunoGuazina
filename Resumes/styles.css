@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800;900&display=swap');
+
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex: 1;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.section img.photo {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 10%;
+}
+
+.header h1 {
+    margin: 10px 0 5px 0;
+    font-size: 28px;
+    color: #0073b1;
+}
+
+.header h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #555;
+}
+
+.badges {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.section {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.section h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #0073b1;
+    border-bottom: 2px solid #0073b1;
+    padding-bottom: 5px;
+}
+
+.section p, .section ul {
+    margin: 10px 0;
+}
+
+.section ul {
+    padding-left: 20px;
+}
+
+.section ul li {
+    margin-bottom: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: none;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.col-30 {
+    width: 30%;
+    background-color: #f9f9f9;
+    padding-right: 20px;
+    border-right: 2px solid #e0e0e0;
+}
+
+.col-70 {
+    width: 70%;
+    padding-left: 20px;
+}
+
+.skills img {
+    margin: 5px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: #ffffff;
+    box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+}
+
+.footer p {
+    margin: 2px 0;
+}
+
+/* Estilo directo para strong y b */
+strong {
+    font-family: 'Open Sans', Arial, sans-serif !important;
+    font-weight: 900 !important;
+    color: #000 !important;
+}
