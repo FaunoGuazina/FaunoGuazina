@@ -11,8 +11,8 @@
 - 💻 Final project ['What a Cook'](https://github.com/LinkiaFP-Exercises/Project_What-a-Cook)
 - 🎯 Self-motivated Java Developer and committed to an IT career change
 - ⚡ Passion for TDD and Clean Code
-- 💾 I really like backend and microservices
-- 🏆 Here's my [Resume](https://drive.google.com/file/d/1WspxoVAdOnstQ4ZO4ojxPcg82KafPH1u/) and [LinkedIn](https://www.linkedin.com/in/fauno-guazina)
+- 💾 I really like microservices and testing
+- 🏆 Here's my [Resume](https://drive.google.com/file/d/17IeqWcf_7qhDVYJDMXJ1kEylWCSaNxAB)
 - ✒️ 15 years of graphic & product design experience
 - 🎓 10 years of university teaching experience, coordinating extension and research projects
 - 🏡 Currently living in Barcelona
