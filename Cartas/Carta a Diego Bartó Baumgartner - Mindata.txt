@@ -1,0 +1,19 @@
+Estimado Señor Diego,
+
+Soy Fauno Guazina y le escribo siguiendo la recomendación de Sergio Perales, con quien coincidí en el Mobile World Congress el año pasado. Sergio fue muy amable orientándome sobre mi formación profesional y, al compartir mi pasión por la programación en Java y el testing, me sugirió que me pusiera en contacto con usted. Me comentó que en Mindata se trabaja en un ambiente muy atractivo y desafiante, y pensé que sería increíble tener la oportunidad de aprender allí.
+
+Acabo de terminar la carrera, y solo me faltan las prácticas. Estoy muy emocionado porque obtuve un 9 en mi proyecto final. En este proyecto, utilicé tecnologías como Spring WebFlux, JUnit 5 y Mockito, e incluí pruebas de caja negra y blanca. Aunque solo he tenido tiempo de hacer pruebas unitarias hasta ahora, estoy ansioso por seguir aprendiendo y mejorando.
+
+Estoy buscando una oportunidad laboral, pero aún necesito formalizar mis prácticas. Me gustaría saber si existe la posibilidad de realizar mis prácticas en Mindata, y que estas prácticas puedan servir como una prueba de mis habilidades. Creo que sería una excelente manera de demostrar lo que puedo aportar y de conocer mejor vuestro entorno de trabajo.
+
+Aunque soy recién graduado, tengo tres años de experiencia trabajando como Data Manager y programador, especialmente en APIs y microservicios. Mi proyecto final está disponible en GitHub y me encantaría compartirlo con usted para que pueda ver mi trabajo.
+Proyecto final: https://github.com/LinkiaFP-Exercises/Project_What-a-Cook
+
+Adjunto mi currículum y comparto mi tarjeta de visita para su referencia:
+Tarjeta de visita: https://about.me/prof.guazina
+
+Muchas gracias por su tiempo y consideración. Espero poder conversar con usted pronto para explorar esta oportunidad.
+
+Un saludo,
+
+Fauno Guazina
