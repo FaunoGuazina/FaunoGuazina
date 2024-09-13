@@ -12,7 +12,7 @@
 - 🎯 Self-motivated Java Developer and committed to an IT career change
 - ⚡ Passion for TDD and Clean Code
 - 💾 I really like microservices and testing
-- 🏆 Here's my [Resume](https://drive.google.com/file/d/10tu_wUyELWffzEwjwltipO8wsJmQ846a)
+- 🏆 Here's my [Resume](https://drive.google.com/file/d/1HnCMtTw_oRaP1oNiUD0a-IXeFHTUHs7J)
 - ✒️ 15 years of graphic & product design experience
 - 🎓 10 years of university teaching experience, coordinating extension and research projects
 - 🏡 Currently living in Barcelona
