@@ -1,6 +1,6 @@
 # Hi there, I'm Fauno Guazina 👋  
 
-**Junior Java Developer**  
+**Java Developer**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/fauno-guazina/) [![Email](https://img.shields.io/badge/Email-Contact-yellow)](mailto:prof.guazina@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/FaunoGuazina)
 
 ---
